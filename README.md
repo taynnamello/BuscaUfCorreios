@@ -10,4 +10,4 @@
 ### Salvando o arquivo
  4. Após informar as UFs, ao final da execução a ilsta de municípios é salva em um arquivo cidades.json 
 
- 5. O arquivo contempla todas as cidades referentes a cada UF informada na execução do código.
+ 5. O arquivo contempla todas as cidades referentes a cada UF informada na execução do código

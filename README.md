@@ -2,6 +2,8 @@
  
  ### Versão
  1. Utilizar a versão 3.8 do Python
+
+ ### Executar o Comando
  2. Python correios.py
 
 ### Informe as UFs desejadas
